@@ -1,0 +1,22 @@
+{
+  "cars": [
+    {
+      "id": "1",
+      "name": "Wagonar",
+      "year": 2021,
+      "imageUrl": "https://imageio.forbes.com/specials-images/imageserve/5d35eacaf1176b0008974b54/2020-Chevrolet-Corvette-Stingray/0x0.jpg?format=jpg&crop=4560,2565,x790,y784,safe&width=960"
+    },
+    {
+      "id": "2",
+      "name": "I20",
+      "year": 2023,
+      "imageUrl": "https://5.imimg.com/data5/EM/YO/MY-10536973/hyundai-elite-i20-car.png"
+    },
+    {
+      "id": "36d2",
+      "name": "Mahindra",
+      "year": 2020,
+      "imageUrl": "https://imgd.aeplcdn.com/370x208/n/cw/ec/40432/scorpio-n-exterior-right-front-three-quarter-75.jpeg?isig=0&q=80"
+    }
+  ]
+}
